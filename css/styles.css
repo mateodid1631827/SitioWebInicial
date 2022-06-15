@@ -1,0 +1,27 @@
+h1 {color:rgb(216, 187, 187);
+border: outset 5px rgb(238, 241, 75) ; 
+}
+#datospersonales h2 {background-color: rosybrown;
+}
+#educacion h2 {background-color: rgb(66, 47, 18);
+}
+.textogrande {font-size: 20px;
+}
+#datospersonales {
+background-image: url(../imgs/fondo2.jpg);
+color: rgb(125, 201, 129);
+padding: 10px;
+margin: 10px;
+}
+#educacion {
+background-image: url(../imgs/fondo.jpg);
+color: rgb(125, 201, 129);
+padding: 10px;
+margin: 10px;
+}
+#contacto {
+color: rgb(125, 201, 129);
+background-image: url(../imgs/fondo3.jpg);
+padding: 10px;
+margin: 10px;
+}
